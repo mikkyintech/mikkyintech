@@ -1,4 +1,4 @@
-# Mikkyla McLean 👩🏽‍🏫 Stay Curious
+# Mikkyla McLean 👩🏽‍🏫 
 
 Hi there 👋🏽 I'm a people analytics consultant with a <strong>passion for exploring and drawing insights from workforce data</strong>. While I spend my free time exploring all types of data, I have a <em>specific interest in human capital/people/HR analytics - leveraging data and analytics to impact talent acquisition, DE&I, workforce planning, attrition, retention, and performance</em>. I have almost 10 years of experience, the bulk of it primarily being talent acquisition with a recent pivot to people analytics within the past year.
 
@@ -31,10 +31,12 @@ Tableau Analyst </br>
 
 #
 
-<details>
  <summary><h3>👩🏽‍🏫  Mikkyla's Coding Journey</h3></summary>
 An avid reader, numbers were never my strong point or of any particular interest -- I took math for liberal arts in undergrad to avoid "real" math. Fastforward years later, I took my first data course and naturally, I prevailed but struggled. As luck would have it, I discovered the intersection between HR and data science, and the surge of excitement allowed me to move past the discomfort. Two years later, I'm capable of doing analyses in R that would have been previously unimaginable. Cheers to further discovery of the unknown. 
 
+#
+
+![e8a979569ae560c0beb7a325c8cbbaa3](https://user-images.githubusercontent.com/60720566/204911997-7dc78818-0247-40a9-858f-a9d6225effb7.gif)
 
 
 
