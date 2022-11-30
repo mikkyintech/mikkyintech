@@ -17,10 +17,10 @@ Hi there 👋🏽 I'm a people analytics consultant with a <strong>passion for e
 #     
       
 ### 🎓 Education and Certifications
-MBA -- University of Maryland, College Park (Go Terps!)
+MBA -- University of Maryland, College Park (Go Terps!)</br>
 Relevant Courses: Data Driven Decision Making (I and II), Data Mining & Predictive Analytics
 
-BA, English - Rutgers University, Newark (Go Scarlet Knights!)
+BA, English -- Rutgers University, Newark (Go Scarlet Knights!)
 
 Anaplan Model Builder </br>
 HR Management & Analytics - UPENN Wharton </br>
